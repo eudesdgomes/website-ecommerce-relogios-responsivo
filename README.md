@@ -1,5 +1,7 @@
 # Site Responsivo - E-commerce Relógios ⌚
 
+- Visite o site: https://eudesdgomes.github.io/website-ecommerce-relogios-responsivo/
+
 - Site de relógios responsivos usando HTML CSS e JavaScript
 - Rolagem suave em cada seção.
 - Inclui um modo claro e escuro.
